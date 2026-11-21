@@ -33,6 +33,7 @@
 
 body {
     background-color: var(--main);
+    timeline-scope: --table ;
 }
 
 body::before {
@@ -45,28 +46,56 @@ body::before {
     background-position: center;
     opacity: 0.3;
     z-index: -1;
+    animation: dim linear both;
+    animation-timeline: --table;
 }   
 
 table{
     width:80%;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 15px;
-    border-collapse: collapse;
+    border-collapse: separate;
+    overflow: hidden;
+    border: 1px solid #87ff24;
+    view-timeline: --table block ;
 }
 
 th,td{
-    padding: 15px 20px;
-    text-align: left;
+    text-align: center;
     border-bottom: 1px solid  #87ff24;
 }
 
 th{
     background-color:  rgba(3, 34, 2, 0.7);
     border-collapse: collapse;
+    border-right: 1px solid #87ff24;
+    border-left: 1px solid #87ff24;
+    color: #24916c;
+    padding: 16px 20px;
+}
+
+td{
+    color:rgb(124, 228, 54);
+    border-right: 1px solid #87ff24;
+    border-left: 1px solid #87ff24;
+    position: relative;
+    padding: 15px 20px;
 }
 
 th:first-child{
     border-top-left-radius: 15px;
+    
 }
 th:last-child{
     border-top-right-radius: 15px;
+    
 }
+
+@keyframes dim {
+    0%   { opacity: 0.3; }
+    30%  { opacity: 0.1; }
+    70%  { opacity: 0.1; }
+    100% { opacity: 0.3; }
+}
+
