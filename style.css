@@ -71,6 +71,7 @@ th{
     border-collapse: collapse;
     border-right: 1px solid #87ff24;
     border-left: 1px solid #87ff24;
+    border-top: 1px solid #87ff24;
     color: #24916c;
     padding: 16px 20px;
 }
@@ -99,3 +100,18 @@ th:last-child{
     100% { opacity: 0.3; }
 }
 
+tr::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: center / auto 90% no-repeat;
+    opacity: 0;
+    z-index: -1;
+    pointer-events: none;
+    transition: opacity 0.5s;
+}
+
+.a1::after { background-image: url('images/alienxholo.png'); }
+.a2::after { background-image: url('images/Ampfibian.jpg'); }
+
+tr:hover::after { opacity: 0.2; }
