@@ -112,6 +112,17 @@ tr::after {
 }
 
 .a1::after { background-image: url('images/alienxholo.png'); }
-.a2::after { background-image: url('images/Ampfibian.jpg'); }
+.a2::after { background-image: url('images/Ampfibian.png'); }
+.a3::after { background-image: url('images/Armadrillo.png'); }
+.a4::after { background-image: url('images/Articguana.png'); }
+.a5::after { background-image: url('images/Big_Chill-removebg-preview.png');
+             height: 150%; background-position: 180px -100px !important; }
+.a6::after { background-image: url('images/Blitzwolfer.png'); }
+.a7::after { background-image: url('images/Brainstorm.png'); }
+.a8::after { background-image: url('images/Buzzshock.png'); }
+.a9::after { background-image: url('images/Cannonbolt.png'); }
+.a10::after { background-image: url('images/ChamAlien.png'); }
+.a11::after { background-image: url('images/Chromastone.png'); }
+.a12::after { background-image: url('images/Clockwork.png'); }
 
 tr:hover::after { opacity: 0.2; }
