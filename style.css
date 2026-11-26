@@ -29,6 +29,7 @@
   font-family: "Rajdhani", sans-serif;
   font-weight: 500;
   font-style: normal;
+  color:rgb(98, 202, 89,1);
 }
 
 body {
@@ -175,3 +176,7 @@ tr::after {
 .a63::after { background-image: url('images/Way_Big-removebg-preview.png');}
 
 tr:hover::after { opacity: 0.2; }
+
+.tl{
+     margin: 0 0 9px 0;
+}
