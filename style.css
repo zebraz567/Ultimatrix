@@ -117,12 +117,61 @@ tr::after {
 .a4::after { background-image: url('images/Articguana.png'); }
 .a5::after { background-image: url('images/Big_Chill-removebg-preview.png');
              height: 150%; background-position: 180px -100px !important; }
-.a6::after { background-image: url('images/Blitzwolfer.png'); }
-.a7::after { background-image: url('images/Brainstorm.png'); }
-.a8::after { background-image: url('images/Buzzshock.png'); }
-.a9::after { background-image: url('images/Cannonbolt.png'); }
-.a10::after { background-image: url('images/ChamAlien.png'); }
-.a11::after { background-image: url('images/Chromastone.png'); }
-.a12::after { background-image: url('images/Clockwork.png'); }
+.a6::after { background-image: url('images/Blitzwolfer-removebg-preview.png'); }
+.a7::after { background-image: url('images/Brainstorm-removebg-preview.png'); }
+.a8::after { background-image: url('images/Green_Hologram_Character-removebg-preview.png'); }
+.a9::after { background-image: url('images/cannon-removebg-preview.png'); }
+.a10::after { background-image: url('images/Green_Hologram_Character__1_-removebg-preview.png'); }
+.a11::after { background-image: url('images/Chromastone-removebg-preview.png'); }
+.a12::after { background-image: url('images/Green_Hologram_Character__2_-removebg-preview.png'); }
+.a13::after { background-image: url('images/Diamondhead-removebg-preview.png');}
+.a14::after { background-image: url('images/Eatle-removebg-preview.png');}
+.a15::after { background-image: url('images/Echo_Echo-removebg-preview.png');}
+.a16::after { background-image: url('images/Eye_Guy-removebg-preview.png');}
+.a17::after { background-image: url('images/Fasttrack-removebg-preview.png');}
+.a18::after { background-image: url('images/Four_Arms-removebg-preview.png');}
+.a19::after { background-image: url('images/Goop-removebg-preview.png');}
+.a20::after { background-image: url('images/Grey_Matter-removebg-preview.png');}
+.a21::after { background-image: url('images/Heatblast-removebg-preview.png');}
+.a22::after { background-image: url('images/Humungasaur-removebg-preview.png');}
+.a23::after { background-image: url('images/Jetray-removebg-preview.png');}
+.a24::after { background-image: url('images/Juryrigg-removebg-preview.png');}
+.a25::after { background-image: url('images/Loadstar-removebg-preview.png');}
+.a26::after { background-image: url('images/Nanomech-removebg-preview.png');}
+.a27::after { background-image: url('images/NRG-removebg-preview.png');}
+.a28::after { background-image: url('images/Rath-removebg-preview.png');}
+.a29::after { background-image: url('images/Shocksquatch-removebg-preview.png');}
+.a30::after { background-image: url('images/Spidermonkey-removebg-preview.png');}
+.a31::after { background-image: url('images/Spitter-removebg-preview.png');}
+.a32::after { background-image: url('images/Stinkfly-removebg-preview.png');}
+.a33::after { background-image: url('images/Swampfire-removebg-preview.png');}
+.a34::after { background-image: url('images/Terraspin-removebg-preview.png');}
+.a35::after { background-image: url('images/Upgrade-removebg-preview.png');}
+.a36::after { background-image: url('images/Water_Hazard-removebg-preview.png');}
+.a37::after { background-image: url('images/Ghostfreak-removebg-preview.png');}
+.a38::after { background-image: url('images/Frankenstrike-removebg-preview.png');}
+.a39::after { background-image: url('images/Ripjaws-removebg-preview.png');}
+.a40::after { background-image: url('images/Wildmutt-removebg-preview.png');}
+.a41::after { background-image: url('images/Wildvine-removebg-preview.png');}
+.a42::after { background-image: url('images/Snare-oh-removebg-preview.png');}
+.a43::after { background-image: url('images/Perk_Upchuck-removebg-preview.png');}
+.a44::after { background-image: url('images/Ditto-removebg-preview.png');}
+.a47::after { background-image: url('images/Mole-stache-removebg-preview.png');}
+.a48::after { background-image: url('images/TheWorst.png');}
+.a49::after { background-image: url('images/kickinhawk.png');}
+.a50::after { background-image: url('');}
+.a51::after { background-image: url('');}
+.a52::after { background-image: url('');}
+.a53::after { background-image: url('');}
+.a54::after { background-image: url('');}
+.a55::after { background-image: url('');}
+.a56::after { background-image: url('');}
+.a57::after { background-image: url('');}
+.a58::after { background-image: url('');}
+.a59::after { background-image: url('');}
+.a60::after { background-image: url('');}
+.a61::after { background-image: url('');}
+.a62::after { background-image: url('');}
+.a63::after { background-image: url('');}
 
 tr:hover::after { opacity: 0.2; }
