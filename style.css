@@ -159,19 +159,19 @@ tr::after {
 .a47::after { background-image: url('images/Mole-stache-removebg-preview.png');}
 .a48::after { background-image: url('images/TheWorst.png');}
 .a49::after { background-image: url('images/kickinhawk.png');}
-.a50::after { background-image: url('');}
-.a51::after { background-image: url('');}
-.a52::after { background-image: url('');}
-.a53::after { background-image: url('');}
-.a54::after { background-image: url('');}
-.a55::after { background-image: url('');}
-.a56::after { background-image: url('');}
-.a57::after { background-image: url('');}
-.a58::after { background-image: url('');}
-.a59::after { background-image: url('');}
-.a60::after { background-image: url('');}
-.a61::after { background-image: url('');}
-.a62::after { background-image: url('');}
-.a63::after { background-image: url('');}
+.a50::after { background-image: url('images/Feedback-removebg-preview.png');}
+.a51::after { background-image: url('images/Crashhopper-removebg-preview.png');}
+.a52::after { background-image: url('images/Bloxx-removebg-preview.png');}
+.a53::after { background-image: url('images/Ball_Weevil-removebg-preview.png');}
+.a54::after { background-image: url('images/Gravattack-removebg-preview.png');}
+.a55::after { background-image: url('images/Atomix-removebg-preview.png');}
+.a56::after { background-image: url('images/Astrodactyl-removebg-preview.png');}
+.a57::after { background-image: url('images/Bullfrag-removebg-preview.png');}
+.a58::after { background-image: url('images/Toepick-removebg-preview.png');}
+.a59::after { background-image: url('images/whapire-removebg-preview.png');}
+.a60::after { background-image: url('images/gutrot-removebg-preview.png');}
+.a61::after { background-image: url('images/Pesky_Dust-removebg-preview.png');}
+.a62::after { background-image: url('images/XRL8_Hologram-removebg-preview.png');}
+.a63::after { background-image: url('images/Way_Big-removebg-preview.png');}
 
 tr:hover::after { opacity: 0.2; }
