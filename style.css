@@ -180,3 +180,12 @@ tr:hover::after { opacity: 0.2; }
 .tl{
      margin: 0 0 9px 0;
 }
+
+.t2{
+  background-color: rgba(31, 7, 95, 0.7);
+  display: inline-block;
+  padding: 2px 4px;
+  border-radius: 5px;
+  border: 1.5px solid #186b85;
+  color:#16ceaf;
+}
