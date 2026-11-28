@@ -1,7 +1,7 @@
 This is NotAZebra , the creator of this website.
 
 # About this website!
-- This wesite is all about ULTRIMATIX , the device that Ben uses to transform into aliens .
+- This website is all about ULTRIMATIX , the device that Ben uses to transform into aliens .
 - The website includes informations about : > The Ultimatrix and its lower degraded version The Omnitrix 
                                             > All the aliens in The Ultimatrix
                                             > The Creator and developer of The Ultimatrix and The Omnitrix: AZMUTH 
